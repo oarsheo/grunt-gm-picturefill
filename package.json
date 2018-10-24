@@ -1,0 +1,74 @@
+{
+  "_from": "grunt-gm-picturefill",
+  "_id": "grunt-gm-picturefill@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-3HoQOYHUEoK5qoX/U2v6sQP54mM=",
+  "_location": "/grunt-gm-picturefill",
+  "_phantomChildren": {
+    "graceful-fs": "4.1.11",
+    "mkdirp": "0.5.1",
+    "ncp": "0.6.0",
+    "rimraf": "2.6.2"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "grunt-gm-picturefill",
+    "name": "grunt-gm-picturefill",
+    "escapedName": "grunt-gm-picturefill",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/grunt-gm-picturefill/-/grunt-gm-picturefill-0.0.4.tgz",
+  "_shasum": "dc7a103981d41282b9aa85ff536bfab103f9e263",
+  "_spec": "grunt-gm-picturefill",
+  "_where": "/ARSHE/arshe/Desktop/mWallet_v4.0",
+  "author": {
+    "name": "Nisheed Jagadish",
+    "email": "nisheed2016@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs-extra": "^0.12.0",
+    "gm": "^1.16.0",
+    "jade": "^1.7.0",
+    "underscore": "^1.7.0"
+  },
+  "deprecated": false,
+  "description": "Plugin to crop or resize images to work with picturefill plugin or the picture element",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-nodeunit": "~0.3.0",
+    "jshint-stylish": "~0.1.5",
+    "load-grunt-tasks": "~0.3.0"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "node",
+    "image",
+    "resize",
+    "picturefill",
+    "grunt"
+  ],
+  "license": "MIT",
+  "main": "Gruntfile.js",
+  "name": "grunt-gm-picturefill",
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/nisheed2440/grunt-gm-picturefill"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "version": "0.0.4"
+}
